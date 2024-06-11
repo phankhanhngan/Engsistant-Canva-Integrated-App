@@ -30,8 +30,12 @@
     "@canva/platform": "^1.1.0",
     "@canva/preview": "./sdk/preview",
     "@canva/user": "^1.0.0",
+    "antd": "^5.18.0",
+    "axios": "^1.7.2",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "styled": "^1.0.0",
+    "styled-components": "^6.1.11"
   },
   "devDependencies": {
     "@ngrok/ngrok": "^1.1.0",
